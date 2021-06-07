@@ -1,1 +1,2 @@
-# learn_python
+# LEARN.py
+Initiative by TINKERHUB
